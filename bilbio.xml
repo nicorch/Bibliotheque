@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livresé>
+  <livre categorie="Wow">
+    <reference>ptdr</reference>
+    <titre>Tamere</titre>
+    <auteurs>
+      <nom>Maxime Gratens</nom>
+      <nom>Baptiste Gratens</nom>
+    </auteurs>
+  </livre>
+</livresé>
